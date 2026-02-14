@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/FORENSIC-JOURNAL-FF0066?style=for-the-badge&labelColor=0D0D0D" alt="forensic">
 <img src="https://img.shields.io/badge/BLOCKCHAIN-ANCHORED-00FF41?style=for-the-badge&labelColor=0D0D0D" alt="blockchain">
 
+<a href="https://github.com/bad-antics/cool-memories/stargazers"><img src="https://img.shields.io/github/stars/bad-antics/cool-memories?style=for-the-badge&color=9B30FF&labelColor=0D0D0D" alt="stars"></a>
+<a href="https://github.com/bad-antics/cool-memories/network/members"><img src="https://img.shields.io/github/forks/bad-antics/cool-memories?style=for-the-badge&color=FF0066&labelColor=0D0D0D" alt="forks"></a>
+<a href="https://github.com/bad-antics/cool-memories/issues"><img src="https://img.shields.io/github/issues/bad-antics/cool-memories?style=for-the-badge&color=00FF41&labelColor=0D0D0D" alt="issues"></a>
+
 **FRAGMENTARY TRUTH THAT CANNOT BE ALTERED**
 
 *Immutable logging • Blockchain anchoring • Encrypted storage • Cross-platform sync*
@@ -277,12 +281,25 @@ cd apps/cool-memories-mobile
 npm install && npx expo build
 ```
 
+## ◈ BAUDRILLARD SUITE
+
+Part of the **Baudrillard Security Suite** — philosophical security tools for the postmodern threat landscape:
+
+| Tool | Purpose | Language |
+|:-----|:--------|:---------|
+| [simulacra](https://github.com/bad-antics/simulacra) | Rootkit detection via process ontology | Python |
+| [hyperreal](https://github.com/bad-antics/hyperreal) | Memory forensics & negative space analysis | Rust/Python |
+| **cool-memories** (this repo) | Immutable forensic logging & evidence chains | Python |
+| [spectral](https://github.com/bad-antics/spectral) | Liminal signal analysis | Python |
+
+> *Built by [NullSec](https://github.com/bad-antics) — Security through philosophy.*
+
 ---
 
 <div align="center">
 
 *"What is remembered cannot be unremembered. What is recorded cannot be unrecorded."*
 
-**BAUDRILLARD SUITE**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nullsec)
 
 </div>
